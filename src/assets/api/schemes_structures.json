@@ -1,0 +1,1473 @@
+{
+  "spiral": {
+    "startPoint": {
+      "type": {
+        "x": 0,
+        "y": 0
+      },
+      "typex4": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 6,
+      "y": 2
+    },
+    "stepHorizontalOffset": {
+      "x": 10,
+      "y": 0
+    },
+    "width": 6,
+    "height": 4,
+    "tilesMap": [
+      [1, 0, 2, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 3, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": false,
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "rotation": false,
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      }
+    ]
+  },
+  "knit": {
+    "startPoint": {
+      "type": {
+        "x": 0,
+        "y": 0
+      },
+      "typex4": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 0,
+      "y": 4
+    },
+    "stepHorizontalOffset": {
+      "x": 6,
+      "y": 0
+    },
+    "width": 6,
+    "height": 4,
+    "tilesMap": [
+      [1, 0, 2, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [3, 0, 4, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "rotation": false,
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": false,
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "rotation": false,
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": false,
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      }
+    ]
+  },
+  "plaid": {
+    "startPoint": {
+      "type": {
+        "x": 2,
+        "y": 2
+      },
+      "typex4": {
+        "x": 4,
+        "y": 4
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 0,
+      "y": 6
+    },
+    "stepHorizontalOffset": {
+      "x": 6,
+      "y": 0
+    },
+    "width": 6,
+    "height": 6,
+    "tilesMap": [
+      [1, 0, 2, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [3, 0, 1, 0, 1, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 1, 0, 1, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      }
+    ]
+  },
+  "offset": {
+    "startPoint": {
+      "type": {
+        "x": 0,
+        "y": 0
+      },
+      "typex4": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 6,
+      "y": 4
+    },
+    "stepHorizontalOffset": {
+      "x": 7,
+      "y": 0
+    },
+    "width": 7,
+    "height": 6,
+    "tilesMap": [
+      [0, 0, 0, 3, 0, 5, 0],
+      [0, 0, 0, 0, 0, 6, 0],
+      [1, 0, 5, 0, 0, 4, 0],
+      [0, 0, 6, 0, 0, 0, 0],
+      [0, 0, 2, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0]
+    ],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color1",
+          "4_COLOR": "color1",
+          "6_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "rotation": 6,
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color1",
+          "4_COLOR": "color2",
+          "6_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color1",
+          "4_COLOR": "color1",
+          "6_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "rotation": 6,
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color1",
+          "4_COLOR": "color2",
+          "6_COLOR": "color4",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "rotation": 6,
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color2",
+          "4_COLOR": "color3",
+          "6_COLOR": "color5",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "rotation": 6,
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color3",
+          "4_COLOR": "color4",
+          "6_COLOR": "color6",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      }
+    ]
+  },
+  "subway": {
+    "startPoint": {
+      "type": {
+        "x": 20,
+        "y": 20
+      },
+      "typex4": {
+        "x": 20,
+        "y": 20
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 0,
+      "y": 12
+    },
+    "stepHorizontalOffset": {
+      "x": 4,
+      "y": 0
+    },
+    "width": 14,
+    "height": 12,
+    "tilesMap": [
+      [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    ],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3A_COLOR": "color1",
+          "3B_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3A_COLOR": "color2",
+          "3B_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3A_COLOR": "color3",
+          "3B_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3A_COLOR": "color1",
+          "3B_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3A_COLOR": "color2",
+          "3B_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3A_COLOR": "color3",
+          "3B_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      }
+    ],
+    "tilesColorAlgorithm": {
+      "3A_COLOR": {
+        "stepVerticalOffset": {
+          "x": 2,
+          "y": 2
+        },
+        "stepHorizontalOffset": {
+          "x": 24,
+          "y": 0
+        }
+      },
+      "MIX_GLAZE": {
+        "stepVerticalOffset": {
+          "x": 2,
+          "y": 2
+        },
+        "stepHorizontalOffset": {
+          "x": 24,
+          "y": 0
+        }
+      }
+    }
+  },
+  "old": {
+    "startPoint": {
+      "type": {
+        "x": 0,
+        "y": 0
+      },
+      "typex4": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 4,
+      "y": 1
+    },
+    "stepHorizontalOffset": {
+      "x": 9,
+      "y": 0
+    },
+    "width": 4,
+    "height": 3,
+    "tilesMap": [[0, 0, 0, 2], [1, 0, 0, 0], [0, 0, 0, 0]],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      }
+    ]
+  },
+  "basket": {
+    "startPoint": {
+      "type": {
+        "x": 0,
+        "y": 0
+      },
+      "typex4": {
+        "x": 8,
+        "y": 4
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 4,
+      "y": 4
+    },
+    "stepHorizontalOffset": {
+      "x": 8,
+      "y": 0
+    },
+    "width": 4,
+    "height": 8,
+    "tilesMap": [
+      [1, 0, 2, 0],
+      [0, 0, 0, 0],
+      [0, 0, 0, 0],
+      [0, 0, 0, 0],
+      [3, 0, 0, 0],
+      [0, 0, 0, 0],
+      [4, 0, 0, 0],
+      [0, 0, 0, 0]
+    ],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      }
+    ]
+  },
+  "oddfellow": {
+    "startPoint": {
+      "type": {
+        "x": 0,
+        "y": 0
+      },
+      "typex4": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 4,
+      "y": 2
+    },
+    "stepHorizontalOffset": {
+      "x": 10,
+      "y": 0
+    },
+    "width": 10,
+    "height": 3,
+    "tilesMap": [
+      [0, 1, 3, 0, 0, 0, 1, 2, 0, 0],
+      [2, 0, 0, 0, 1, 3, 0, 0, 0, 1],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    ],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      }
+    ]
+  },
+  "rough": {
+    "startPoint": {
+      "type": {
+        "x": 1,
+        "y": 2
+      },
+      "typex4": {
+        "x": 6,
+        "y": 8
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 0,
+      "y": 6
+    },
+    "stepHorizontalOffset": {
+      "x": 4,
+      "y": 0
+    },
+    "width": 5,
+    "height": 6,
+    "tilesMap": [
+      [1, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 2, 0, 3, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0]
+    ],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color1",
+          "2B_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color1",
+          "2B_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color2",
+          "2B_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      }
+    ]
+  },
+  "double": {
+    "startPoint": {
+      "type": {
+        "x": 1,
+        "y": 2
+      },
+      "typex4": {
+        "x": 6,
+        "y": 8
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 2,
+      "y": 2
+    },
+    "stepHorizontalOffset": {
+      "x": 12,
+      "y": 0
+    },
+    "width": 8,
+    "height": 6,
+    "tilesMap": [
+      [1, 2, 0, 0, 0, 0, 0, 0],
+      [3, 0, 4, 6, 0, 0, 0, 0],
+      [0, 0, 5, 0, 0, 0, 0, 0],
+      [0, 0, 0, 7, 8, 0, 0, 0],
+      [0, 0, 0, 9, 0, 10, 12, 0],
+      [0, 0, 0, 0, 0, 11, 0, 0]
+    ],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3_COLOR": "color2",
+          "4_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3_COLOR": "color3",
+          "4_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3_COLOR": "color1",
+          "4_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3_COLOR": "color3",
+          "4_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3_COLOR": "color2",
+          "4_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3_COLOR": "color1",
+          "4_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3_COLOR": "color2",
+          "4_COLOR": "color4",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3_COLOR": "color3",
+          "4_COLOR": "color4",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3_COLOR": "color1",
+          "4_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3_COLOR": "color3",
+          "4_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3_COLOR": "color2",
+          "4_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3_COLOR": "color1",
+          "4_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      }
+    ]
+  },
+  "herringbone": {
+    "startPoint": {
+      "type": {
+        "x": 1,
+        "y": 2
+      },
+      "typex4": {
+        "x": 6,
+        "y": 8
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 4,
+      "y": 4
+    },
+    "stepHorizontalOffset": {
+      "x": 16,
+      "y": 0
+    },
+    "width": 12,
+    "height": 8,
+    "tilesMap": [
+      [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [3, 0, 0, 0, 2, 0, 0, 0, 5, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 4, 0, 0, 0, 7, 0, 0, 0, 6, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    ],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color1",
+          "2B_COLOR": "color2",
+          "3_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color1",
+          "2B_COLOR": "color1",
+          "3_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color2",
+          "2B_COLOR": "color1",
+          "3_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color2",
+          "2B_COLOR": "color2",
+          "3_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color1",
+          "2B_COLOR": "color2",
+          "3_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color1",
+          "2B_COLOR": "color1",
+          "3_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color2",
+          "2B_COLOR": "color1",
+          "3_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color2",
+          "2B_COLOR": "color2",
+          "3_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      }
+    ]
+  },
+  "modern": {
+    "startPoint": {
+      "type": {
+        "x": 1,
+        "y": 2
+      },
+      "typex4": {
+        "x": 6,
+        "y": 8
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 4,
+      "y": 4
+    },
+    "stepHorizontalOffset": {
+      "x": 8,
+      "y": 0
+    },
+    "width": 8,
+    "height": 4,
+    "tilesMap": [
+      [1, 0, 2, 0, 3, 0, 4, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 5, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0]
+    ],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "3_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      }
+    ]
+  },
+  "ancient": {
+    "startPoint": {
+      "type": {
+        "x": 1,
+        "y": 2
+      },
+      "typex4": {
+        "x": 6,
+        "y": 8
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 0,
+      "y": 6
+    },
+    "stepHorizontalOffset": {
+      "x": 6,
+      "y": 0
+    },
+    "width": 7,
+    "height": 7,
+    "tilesMap": [
+      [0, 0, 0, 0, 2, 0, 0],
+      [1, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0],
+      [5, 4, 0, 6, 0, 0, 0],
+      [0, 0, 0, 3, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0],
+      [7, 0, 0, 8, 0, 0, 0]
+    ],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3A_COLOR": "color1",
+          "3B_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3A_COLOR": "color2",
+          "3B_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3A_COLOR": "color1",
+          "3B_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color1",
+          "3A_COLOR": "color2",
+          "3B_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3A_COLOR": "color3",
+          "3B_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3A_COLOR": "color3",
+          "3B_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3A_COLOR": "color3",
+          "3B_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Dot",
+        "typex4": "Square",
+        "color": {
+          "1_COLOR": "color1",
+          "2_COLOR": "color2",
+          "3A_COLOR": "color3",
+          "3B_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      }
+    ]
+  },
+  "grid": {
+    "startPoint": {
+      "type": {
+        "x": 0,
+        "y": 0
+      },
+      "typex4": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 0,
+      "y": 8
+    },
+    "stepHorizontalOffset": {
+      "x": 12,
+      "y": 0
+    },
+    "width": 12,
+    "height": 8,
+    "tilesMap": [
+      [2, 0, 1, 0, 2, 0, 5, 0, 6, 0, 5, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [4, 0, 3, 0, 4, 0, 7, 0, 8, 0, 7, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    ],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color1",
+          "2B_COLOR": "color1",
+          "4_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color2",
+          "2B_COLOR": "color1",
+          "4_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color1",
+          "2B_COLOR": "color2",
+          "4_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color2",
+          "2B_COLOR": "color2",
+          "4_COLOR": "color4",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color1",
+          "2B_COLOR": "color1",
+          "4_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color2",
+          "2B_COLOR": "color1",
+          "4_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color1",
+          "2B_COLOR": "color2",
+          "4_COLOR": "color4",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Rectangular",
+        "typex4": "Rectangularx4",
+        "rotation": 2,
+        "color": {
+          "1_COLOR": "color1",
+          "2A_COLOR": "color2",
+          "2B_COLOR": "color2",
+          "4_COLOR": "color3",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color1"
+        }
+      }
+    ]
+  },
+  "blends": {
+    "startPoint": {
+      "type": {
+        "x": 0,
+        "y": 0
+      },
+      "typex4": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 0,
+      "y": 2
+    },
+    "stepHorizontalOffset": {
+      "x": 2,
+      "y": 0
+    },
+    "width": 2,
+    "height": 2,
+    "tilesMap": [[1, 0], [0, 0]],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Square",
+        "typex4": "Squarex4",
+        "color": {
+          "1_COLOR": "color1",
+          "GLAZE": "color_glaze1"
+        }
+      }
+    ]
+  },
+  "trapezi": {
+    "startPoint": {
+      "type": {
+        "x": 0,
+        "y": 0
+      },
+      "typex4": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "stepVerticalOffset": {
+      "x": 0,
+      "y": 4
+    },
+    "stepHorizontalOffset": {
+      "x": 2,
+      "y": 0
+    },
+    "width": 2,
+    "height": 5,
+    "forcex4": true,
+    "tilesMap": [[1, 0], [0, 0], [3, 2], [0, 0], [0, 4]],
+    "tilesDesc": [
+      "",
+      {
+        "type": "Trapezi",
+        "color": {
+          "2_COLOR": "color1",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Trapezi",
+        "rotation": 8,
+        "color": {
+          "2_COLOR": "color1",
+          "GLAZE": "color_invglaze1",
+          "MIX_GLAZE": "color1"
+        }
+      },
+      {
+        "type": "Trapezi",
+        "color": {
+          "2_COLOR": "color2",
+          "GLAZE": "color_glaze1",
+          "MIX_GLAZE": "color_glaze1"
+        }
+      },
+      {
+        "type": "Trapezi",
+        "rotation": 8,
+        "color": {
+          "2_COLOR": "color2",
+          "GLAZE": "color_invglaze1",
+          "MIX_GLAZE": "color1"
+        }
+      }
+    ]
+  }
+}

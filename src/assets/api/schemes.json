@@ -1,0 +1,1176 @@
+[
+  {
+    "title": "Spiral",
+    "handle": "spiral",
+    "page": 137,
+    "img": "./assets/img/tiles/spiral/spiral.png",
+    "schemeList": [
+      {
+        "title": "Spiral",
+        "type": "SPIRAL",
+        "img": "./assets/img/tiles/spiral/spiral_scheme.png",
+        "info": {
+          "sizes": "5x5 cm / 5x10 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.68,
+            "kg": 9.2
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 27.28,
+            "kg": 383
+          },
+          "grout": {
+            "kgsqm": 0.74
+          }
+        }
+      },
+      {
+        "title": "Spiral x4",
+        "type": "SPIRAL_X4",
+        "img": "./assets/img/tiles/spiral/spiralx4_scheme.png",
+        "info": {
+          "sizes": "10x10 cm / 10x20 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.63,
+            "kg": 8.5
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 25.2,
+            "kg": 355
+          },
+          "grout": {
+            "kgsqm": 0.35
+          }
+        }
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/spiral/spiral_1color.png"
+      },
+      {
+        "title": "two colors",
+        "type": "2_COLOR",
+        "img": "./assets/img/tiles/spiral/spiral_2color.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/spiral/spiral_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/spiral/spiral_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Knit",
+    "handle": "knit",
+    "page": 145,
+    "img": "./assets/img/tiles/knit/knit.png",
+    "schemeList": [
+      {
+        "title": "Knit",
+        "type": "KNIT",
+        "img": "./assets/img/tiles/knit/knit_scheme.png",
+        "info": {
+          "sizes": "5x5 cm / 5x10 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.54,
+            "kg": 7.3
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 32.64,
+            "kg": 453
+          },
+          "grout": {
+            "kgsqm": 0.78
+          }
+        }
+      },
+      {
+        "title": "Knit x4",
+        "type": "KNIT_X4",
+        "img": "./assets/img/tiles/knit/knitx4_scheme.png",
+        "info": {
+          "sizes": "10x10 cm / 10x20 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.73,
+            "kg": 9.8
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 29,
+            "kg": 407
+          },
+          "grout": {
+            "kgsqm": 0.35
+          }
+        }
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/knit/knit_1color.png"
+      },
+      {
+        "title": "three colors",
+        "type": "3_COLOR",
+        "img": "./assets/img/tiles/knit/knit_3color.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/knit/knit_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/knit/knit_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Plaid",
+    "handle": "plaid",
+    "page": 153,
+    "img": "./assets/img/tiles/plaid/plaid.png",
+    "schemeList": [
+      {
+        "title": "Plaid",
+        "type": "PLAID",
+        "img": "./assets/img/tiles/plaid/plaid_scheme.png",
+        "info": {
+          "sizes": "5x5 cm / 5x10 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.54,
+            "kg": 7.3
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 32.64,
+            "kg": 453
+          },
+          "grout": {
+            "kgsqm": 0.83
+          }
+        }
+      },
+      {
+        "title": "Plaid x4",
+        "type": "PLAID_X4",
+        "img": "./assets/img/tiles/plaid/plaidx4_scheme.png",
+        "info": {
+          "sizes": "10x10 cm / 10x20 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.544,
+            "kg": 7.3
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 32.64,
+            "kg": 453
+          },
+          "grout": {
+            "kgsqm": 0.35
+          }
+        }
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/plaid/plaid_1color.png"
+      },
+      {
+        "title": "three colors",
+        "type": "3_COLOR",
+        "img": "./assets/img/tiles/plaid/plaid_3color.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/plaid/plaid_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/plaid/plaid_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Offset",
+    "handle": "offset",
+    "page": 161,
+    "img": "./assets/img/tiles/offset/offset.png",
+    "schemeList": [
+      {
+        "title": "Offset",
+        "type": "OFFSET",
+        "img": "./assets/img/tiles/offset/offset_scheme.png",
+        "info": {
+          "sizes": "2.5x2.5 cm / 5x5 cm / 5x10 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.54,
+            "kg": 7.3
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 32.64,
+            "kg": 453
+          },
+          "grout": {
+            "kgsqm": 0.83
+          }
+        }
+      },
+      {
+        "title": "Offset x4",
+        "type": "OFFSET_X4",
+        "img": "./assets/img/tiles/offset/offsetx4_scheme.png",
+        "info": {
+          "sizes": "5x5 cm / 10x10 cm / 10x20 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.42,
+            "kg": 5.7
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 25.2,
+            "kg": 357
+          },
+          "grout": {
+            "kgsqm": 0.4
+          }
+        }
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/offset/offset_1color.png"
+      },
+      {
+        "title": "three colors",
+        "type": "3_COLOR",
+        "img": "./assets/img/tiles/offset/offset_3color.png"
+      },
+      {
+        "title": "four colors",
+        "type": "4_COLOR",
+        "img": "./assets/img/tiles/offset/offset_4color.png"
+      },
+      {
+        "title": "six colors",
+        "type": "6_COLOR",
+        "img": "./assets/img/tiles/offset/offset_6color.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/offset/offset_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/offset/offset_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Subway",
+    "handle": "subway",
+    "page": 169,
+    "img": "./assets/img/tiles/subway/subway.png",
+    "schemeList": [
+      {
+        "title": "Subway",
+        "type": "SUBWAY",
+        "img": "./assets/img/tiles/subway/subway_scheme.png",
+        "info": {
+          "sizes": "5x10 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.544,
+            "kg": 7.3
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 32.64,
+            "kg": 453
+          },
+          "grout": {
+            "kgsqm": 0.65
+          }
+        }
+      },
+      {
+        "title": "Subway",
+        "type": "SUBWAY_X4",
+        "custom": true,
+        "img": "./assets/img/tiles/subway/subwayx4_scheme.png"
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/subway/subway_1color.png"
+      },
+      {
+        "title": "two color",
+        "type": "2_COLOR",
+        "img": "./assets/img/tiles/subway/subway_2color.png"
+      },
+      {
+        "title": "three colors A",
+        "type": "3A_COLOR",
+        "img": "./assets/img/tiles/subway/subway_3Acolor.png"
+      },
+      {
+        "title": "three colors B",
+        "type": "3B_COLOR",
+        "img": "./assets/img/tiles/subway/subway_3Bcolor.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/subway/subway_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/subway/subway_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Old",
+    "handle": "old",
+    "page": 175,
+    "img": "./assets/img/tiles/old/old.png",
+    "schemeList": [
+      {
+        "title": "Old",
+        "type": "OLD",
+        "img": "./assets/img/tiles/old/old_scheme.png",
+        "info": {
+          "sizes": "2.5x2.5 cm / 5x10 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.544,
+            "kg": 7.3
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 21.76,
+            "kg": 307
+          },
+          "grout": {
+            "kgsqm": 1.28
+          }
+        }
+      },
+      {
+        "title": "Old x4",
+        "type": "OLD_X4",
+        "img": "./assets/img/tiles/old/oldx4_scheme.png",
+        "info": {
+          "sizes": "5x5 cm / 10x20cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.408,
+            "kg": 5.5
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 24.48,
+            "kg": 345
+          },
+          "grout": {
+            "kgsqm": 0.3
+          }
+        }
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/old/old_1color.png"
+      },
+      {
+        "title": "two colors",
+        "type": "2_COLOR",
+        "img": "./assets/img/tiles/old/old_2color.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/old/old_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/old/old_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Basket",
+    "handle": "basket",
+    "page": 183,
+    "img": "./assets/img/tiles/basket/basket.png",
+    "schemeList": [
+      {
+        "title": "Basket",
+        "type": "BASKET",
+        "img": "./assets/img/tiles/basket/basket_scheme.png",
+        "info": {
+          "sizes": "5x10 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.97,
+            "kg": 13
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 38.8,
+            "kg": 535
+          },
+          "grout": {
+            "kgsqm": 0.65
+          }
+        }
+      },
+      {
+        "title": "Basket x4",
+        "type": "BASKET_X4",
+        "img": "./assets/img/tiles/basket/basketx4_scheme.png",
+        "info": {
+          "sizes": "10x20cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.97,
+            "kg": 13
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 38.8,
+            "kg": 535
+          },
+          "grout": {
+            "kgsqm": 0.35
+          }
+        }
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/basket/basket_1color.png"
+      },
+      {
+        "title": "two colors",
+        "type": "2_COLOR",
+        "img": "./assets/img/tiles/basket/basket_2color.png"
+      },
+      {
+        "title": "three colors",
+        "type": "3_COLOR",
+        "img": "./assets/img/tiles/basket/basket_3color.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/basket/basket_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/basket/basket_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Oddfellow",
+    "handle": "oddfellow",
+    "page": 191,
+    "img": "./assets/img/tiles/oddfellow/oddfellow.png",
+    "schemeList": [
+      {
+        "title": "Oddfellow",
+        "type": "ODDFELLOW",
+        "img": "./assets/img/tiles/oddfellow/oddfellow_scheme.png",
+        "info": {
+          "sizes": "2.5x2.5 cm / 5x5 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.54,
+            "kg": 7.3
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 32.64,
+            "kg": 453
+          },
+          "grout": {
+            "kgsqm": 1.4
+          }
+        }
+      },
+      {
+        "title": "Oddfellow x4",
+        "type": "ODDFELLOW_X4",
+        "img": "./assets/img/tiles/oddfellow/oddfellowx4_scheme.png",
+        "info": {
+          "sizes": "5x5cm / 10x10cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.606,
+            "kg": 8.2
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 24.4,
+            "kg": 343
+          },
+          "grout": {
+            "kgsqm": 0.55
+          }
+        }
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/oddfellow/oddfellow_1color.png"
+      },
+      {
+        "title": "two colors",
+        "type": "2_COLOR",
+        "img": "./assets/img/tiles/oddfellow/oddfellow_2color.png"
+      },
+      {
+        "title": "three colors",
+        "type": "3_COLOR",
+        "img": "./assets/img/tiles/oddfellow/oddfellow_3color.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/oddfellow/oddfellow_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/oddfellow/oddfellow_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Rough",
+    "handle": "rough",
+    "page": 199,
+    "img": "./assets/img/tiles/rough/rough.png",
+    "schemeList": [
+      {
+        "title": "Rough",
+        "type": "ROUGH",
+        "img": "./assets/img/tiles/rough/rough_scheme.png",
+        "info": {
+          "sizes": "5x10 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.544,
+            "kg": 7.3
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 32.64,
+            "kg": 453
+          },
+          "grout": {
+            "kgsqm": 0.65
+          }
+        }
+      },
+      {
+        "title": "Rough x4",
+        "type": "ROUGH_X4",
+        "img": "./assets/img/tiles/rough/roughx4_scheme.png",
+        "custom": true
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/rough/rough_1color.png"
+      },
+      {
+        "title": "two colors A",
+        "type": "2A_COLOR",
+        "img": "./assets/img/tiles/rough/rough_2Acolor.png"
+      },
+      {
+        "title": "two colors B",
+        "type": "2B_COLOR",
+        "img": "./assets/img/tiles/rough/rough_2Bcolor.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/rough/rough_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/rough/rough_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Double",
+    "handle": "double",
+    "page": 205,
+    "img": "./assets/img/tiles/double/double.png",
+    "schemeList": [
+      {
+        "title": "Double",
+        "type": "DOUBLE",
+        "img": "./assets/img/tiles/double/double_scheme.jpeg",
+        "info": {
+          "sizes": "2.5x2.5 cm / 5x5 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.544,
+            "kg": 7.3
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 32.64,
+            "kg": 453
+          },
+          "grout": {
+            "kgsqm": 1.57
+          }
+        }
+      },
+      {
+        "title": "Double x4",
+        "type": "DOUBLE_X4",
+        "img": "./assets/img/tiles/double/doublex4_scheme.jpeg",
+        "info": {
+          "sizes": "5x5cm / 10x10cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.528,
+            "kg": 7.1
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 31.68,
+            "kg": 441
+          },
+          "grout": {
+            "kgsqm": 0.6
+          }
+        }
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/double/double_1color.png"
+      },
+      {
+        "title": "two color",
+        "type": "2_COLOR",
+        "img": "./assets/img/tiles/double/double_2color.png"
+      },
+      {
+        "title": "three colors",
+        "type": "3_COLOR",
+        "img": "./assets/img/tiles/double/double_3color.png"
+      },
+      {
+        "title": "four colors",
+        "type": "4_COLOR",
+        "img": "./assets/img/tiles/double/double_4color.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/double/double_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/double/double_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Herringbone",
+    "handle": "herringbone",
+    "page": 213,
+    "img": "./assets/img/tiles/herringbone/herringbone.png",
+    "schemeList": [
+      {
+        "title": "Herringbone",
+        "type": "HERRINGBONE",
+        "img": "./assets/img/tiles/herringbone/herringbone_scheme.png",
+        "info": {
+          "sizes": "5x10 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.97,
+            "kg": 13
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 38.8,
+            "kg": 535
+          },
+          "grout": {
+            "kgsqm": 0.65
+          }
+        }
+      },
+      {
+        "title": "Herringbone x4",
+        "type": "HERRINGBONE_X4",
+        "img": "./assets/img/tiles/herringbone/herringbonex4_scheme.png",
+        "custom": true
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/herringbone/herringbone_1color.png"
+      },
+      {
+        "title": "two colors A",
+        "type": "2A_COLOR",
+        "img": "./assets/img/tiles/herringbone/herringbone_2Acolor.png"
+      },
+      {
+        "title": "two colors B",
+        "type": "2B_COLOR",
+        "img": "./assets/img/tiles/herringbone/herringbone_2Bcolor.png"
+      },
+      {
+        "title": "three colors",
+        "type": "3_COLOR",
+        "img": "./assets/img/tiles/herringbone/herringbone_3color.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/herringbone/herringbone_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/herringbone/herringbone_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Modern",
+    "handle": "modern",
+    "page": 219,
+    "img": "./assets/img/tiles/modern/modern.png",
+    "schemeList": [
+      {
+        "title": "Modern",
+        "type": "MODERN",
+        "img": "./assets/img/tiles/modern/modern_scheme.png",
+        "info": {
+          "sizes": "5x5 cm / 5x10 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.97,
+            "kg": 13
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 38.8,
+            "kg": 535
+          },
+          "grout": {
+            "kgsqm": 0.72
+          }
+        }
+      },
+      {
+        "title": "Modern x4",
+        "type": "MODERN_X4",
+        "img": "./assets/img/tiles/modern/modernx4_scheme.png",
+        "info": {
+          "sizes": "10x10 cm / 10x20 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.97,
+            "kg": 13
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 38.8,
+            "kg": 535
+          },
+          "grout": {
+            "kgsqm": 0.35
+          }
+        }
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/modern/modern_1color.png"
+      },
+      {
+        "title": "three colors",
+        "type": "3_COLOR",
+        "img": "./assets/img/tiles/modern/modern_3color.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/modern/modern_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/modern/modern_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Ancient",
+    "handle": "ancient",
+    "page": 227,
+    "img": "./assets/img/tiles/ancient/ancient.png",
+    "schemeList": [
+      {
+        "title": "Ancient",
+        "type": "ANCIENT",
+        "img": "./assets/img/tiles/ancient/ancient_scheme.png",
+        "info": {
+          "sizes": "2.5x2.5 cm / 5x10 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.554,
+            "kg": 7.3
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 32.64,
+            "kg": 453
+          },
+          "grout": {
+            "kgsqm": 1.28
+          }
+        }
+      },
+      {
+        "title": "Ancient x4",
+        "type": "ANCIENT_X4",
+        "img": "./assets/img/tiles/ancient/ancientx4_scheme.png",
+        "info": {
+          "sizes": "5x5 cm / 10x20 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.544,
+            "kg": 7.3
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 32.64,
+            "kg": 453
+          },
+          "grout": {
+            "kgsqm": 0.44
+          }
+        }
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/ancient/ancient_1color.png"
+      },
+      {
+        "title": "two colors",
+        "type": "2_COLOR",
+        "img": "./assets/img/tiles/ancient/ancient_2color.png"
+      },
+      {
+        "title": "three colors A",
+        "type": "3A_COLOR",
+        "img": "./assets/img/tiles/ancient/ancient_3Acolor.png"
+      },
+      {
+        "title": "three colors B",
+        "type": "3B_COLOR",
+        "img": "./assets/img/tiles/ancient/ancient_3Bcolor.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/ancient/ancient_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/ancient/ancient_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Grid",
+    "handle": "grid",
+    "page": 235,
+    "img": "./assets/img/tiles/grid/grid.png",
+    "schemeList": [
+      {
+        "title": "Grid",
+        "type": "GRID",
+        "img": "./assets/img/tiles/grid/grid_scheme.png",
+        "info": {
+          "sizes": "5x10 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.725,
+            "kg": 9.8
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 29,
+            "kg": 407
+          },
+          "grout": {
+            "kgsqm": 0.6
+          }
+        }
+      },
+      {
+        "title": "Grid x4",
+        "type": "GRID_X4",
+        "img": "./assets/img/tiles/grid/gridx4_scheme.png",
+        "info": {
+          "sizes": "10x20 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.725,
+            "kg": 9.8
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 29,
+            "kg": 407
+          },
+          "grout": {
+            "kgsqm": 0.37
+          }
+        }
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/grid/grid_1color.png"
+      },
+      {
+        "title": "two colors A",
+        "type": "2A_COLOR",
+        "img": "./assets/img/tiles/grid/grid_2Acolor.png"
+      },
+      {
+        "title": "two colors B",
+        "type": "2B_COLOR",
+        "img": "./assets/img/tiles/grid/grid_2Bcolor.png"
+      },
+      {
+        "title": "four colors",
+        "type": "4_COLOR",
+        "img": "./assets/img/tiles/grid/grid_4color.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/grid/grid_glaze.png"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/grid/grid_mix_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Blends",
+    "handle": "blends",
+    "blends": 245,
+    "img": "./assets/img/tiles/blends/blends.png",
+    "schemeList": [
+      {
+        "title": "Blends",
+        "type": "BLENDS",
+        "img": "./assets/img/tiles/blends/blends_scheme.png",
+        "info": {
+          "sizes": "5x5 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.544,
+            "kg": 7.3
+          },
+          "pallet": {
+            "boxes": 60,
+            "sqm": 32.64,
+            "kg": 453
+          },
+          "grout": {
+            "kgsqm": 1.15
+          }
+        }
+      },
+      {
+        "title": "Blends x4",
+        "type": "BLENDS_X4",
+        "img": "./assets/img/tiles/blends/blendsx4_scheme.png",
+        "info": {
+          "sizes": "10x10 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.97,
+            "kg": 13
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 38.8,
+            "kg": 535
+          },
+          "grout": {
+            "kgsqm": 0.4
+          }
+        }
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "one color",
+        "type": "1_COLOR",
+        "img": "./assets/img/tiles/blends/blends_1color.png"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/blends/blends_glaze.png"
+      }
+    ]
+  },
+  {
+    "title": "Trapezi",
+    "handle": "trapezi",
+    "page": "Custom",
+    "img": "./assets/img/tiles/trapezes/trapezes.png",
+    "schemeList": [
+      {
+        "title": "Trapezi",
+        "type": "TRAPEZI",
+        "img": "./assets/img/tiles/trapezes/trapezes_scheme.png",
+        "info": {
+          "sizes": "40.2x40.2 cm",
+          "thickness": "6 mm",
+          "box": {
+            "pcs": 6,
+            "sqm": 0.97,
+            "kg": 13
+          },
+          "pallet": {
+            "boxes": 40,
+            "sqm": 38.8,
+            "kg": 540
+          },
+          "grout": {
+            "kgsqm": 1.15
+          }
+        }
+      }
+    ],
+    "schemeColorsList": [
+      {
+        "title": "two color",
+        "type": "2_COLOR",
+        "img": "./assets/img/tiles/trapezes/trapezes_2color.jpg"
+      },
+      {
+        "title": "glaze",
+        "type": "GLAZE",
+        "img": "./assets/img/tiles/trapezes/trapezes_glaze.jpg"
+      },
+      {
+        "title": "mix glaze",
+        "type": "MIX_GLAZE",
+        "img": "./assets/img/tiles/trapezes/trapezes_mix_glaze.jpg"
+      }
+    ]
+  }
+]

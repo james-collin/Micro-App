@@ -1,0 +1,52 @@
+{
+  "name": "new-micro",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.22",
+    "@fortawesome/free-solid-svg-icons": "^5.10.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "axios": "^0.19.0",
+    "classnames": "^2.2.6",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "html2canvas": "^1.0.0-rc.5",
+    "html5-to-pdf": "^3.2.0",
+    "jspdf": "^1.5.3",
+    "node-sass": "^4.12.0",
+    "nodemailer": "^6.3.0",
+    "nodemon": "^1.19.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.1.1",
+    "uniqid": "^5.0.3"
+  },
+  "scripts": {
+    "run:client": "react-scripts start",
+    "run:server": "cd server && nodemon index.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "start": "cd server && node index.js",
+    "heroku-postbuild": "npm install && npm install -D && npm run build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "http://localhost:5000",
+  "engines": {
+    "node": "10.16.3"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "colorCode": {
+    "white": "01",
+    "sand": "02",
+    "dust": "03",
+    "grey": "04",
+    "mud": "05",
+    "mou": "06",
+    "black": "07",
+    "coffe": "08",
+    "graphite": "09",
+    "azure": "10",
+    "terracotta": "11",
+    "cotto": "12",
+    "klinker": "13"
+  },
+  "schemeCode": {
+    "spiral": "901",
+    "knit": "902",
+    "plaid": "903",
+    "offset": "904",
+    "subway": "905",
+    "old": "906",
+    "basket": "907",
+    "oddfellow": "908",
+    "rough": "909",
+    "double": "910",
+    "herringbone": "911",
+    "modern": "912",
+    "ancient": "913",
+    "grid": "915",
+    "blends": "05",
+    "trapezi": "928"
+  },
+  "tilesCode": {
+    "Dot": "D",
+    "Square": "S",
+    "Rectangular": "R",
+    "Squarex4": "Q",
+    "Rectangularx4": "C",
+    "Trapezi": "T"
+  }
+}
